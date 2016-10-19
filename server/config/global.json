@@ -1,0 +1,17 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Never Eat Alone": {
+      "applicationId": "tc7RioICzbmNTe875MtAppvFV48EJWjfmgEzJgxf",
+      "masterKey": "ykJ3LFZMs9HDpju4dOuC0xhTsexatlyHVvIDeqGW"
+    },
+    "_default": {
+      "link": "Never Eat Alone"
+    },
+    "nea-server": {
+      "link": "Never Eat Alone"
+    }
+  }
+}
