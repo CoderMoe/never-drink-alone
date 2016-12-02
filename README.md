@@ -4,9 +4,9 @@ Never Drink Alone is an iOS app that gives you a chance to meet interesting peop
 
 <img src=".github/screenshots.jpg" width="800">
 
-## Language
+## Stack
 
-Never Drink Alone iOS code is written in Objective-C.
+Never Drink Alone iOS code is written in Objective-C. It's built with [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa), [Firebase](https://firebase.google.com/docs/ios/setup), and [Parse](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX).
 
 ## Setup
 
